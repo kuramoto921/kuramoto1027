@@ -76,6 +76,25 @@
         .btn:hover {
             opacity: 0.9;
         }
+@media screen and (max-width: 600px) {
+
+.profile-card {
+
+flex-direction: column;
+
+text-align: center;
+
+}
+
+}
+
+画像のはみ出し防止：
+
+img {
+
+max-width: 100%;
+
+}
     </style>
 </head>
 <body>
