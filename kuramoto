@@ -12,7 +12,7 @@
             /* 【ワーク】背景の色を変えてみよう（例：#ffffff、#ffe4e1、#e0ffff など） */
             background-color: #32a852 
             font-family: 'Helvetica Neue', Arial, 'Verdana', sans-serif;
-            color: #333333;
+            color: #32a852;
             margin: 0;
             padding: 0;
             
