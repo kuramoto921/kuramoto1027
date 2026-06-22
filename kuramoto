@@ -118,12 +118,14 @@ transition: all 0.3s;
 
 </ul>
 </div>
-
+<div class="container-b">
 <h2>連絡先</h2>
 
 <p>メール：<a href="mailto:your@email.com">your@email.com</a></p>
 
 <p>GitHub：<a href="https://github.com/yourname" target="_blank">github.com/yourname</a></p>
+</div>
+<div class="container-c">
 <h2>自己紹介表</h2>
 
 <table border="1">
@@ -137,6 +139,7 @@ transition: all 0.3s;
 <tr><td>趣味</td><td>読書</td></tr>
 
 </table>
+</div>
 </div>
 </body>
 </html>
