@@ -39,7 +39,6 @@
             font-family:'Helvetica Neue', Arial, 'Verdana', sans-serif;
             color: #32a852;
             font-size: 29px;
-            color: #2c3e50;
             margin: 15px 0 5px 0;
         }
         .job {
